@@ -110,4 +110,4 @@ def build_named_entities():
 
 if __name__ == '__main__':
     use_spacy = '--spacy' in sys.argv[1:]
-    build_namde_entities()
+    build_named_entities()
