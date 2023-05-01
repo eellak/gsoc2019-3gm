@@ -1,4 +1,4 @@
-flask==1.0
+flask==2.3.2
 Flask_RESTful==0.3.6
 pytest==3.3.1
 Markdown==2.6.11
